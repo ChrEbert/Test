@@ -12,3 +12,6 @@ As my brother always said
 >Make sure it's for real
 
 [This](http://www.littleorange.de) is my Homepage.
+
+[Go to the extented Manual](Test/Manual_one)
+    
