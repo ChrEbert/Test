@@ -13,5 +13,5 @@ As my brother always said
 
 [This](http://www.littleorange.de) is my Homepage.
 
-[Go to the extented Manual](Test/Manual_one.md)
+[Go to the extented Manual](Manual_one.md)
     
