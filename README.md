@@ -19,6 +19,6 @@ As my brother always said
 
 ###What is need to be done:
 
-- [x]Learn the Basics of JS
-- [ ]Contribute with others
-- [ ]Manage first projects
+- [x] Learn the Basics of JS
+- [ ] Contribute with others
+- [ ] Manage first projects
