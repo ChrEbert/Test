@@ -17,7 +17,7 @@ As my brother always said
     
 [Go to Skript](articel_content.js)
 
-###What is need to be done:
+### What is need to be done:
 
 - [x] Learn the Basics of JS
 - [ ] Contribute with others
