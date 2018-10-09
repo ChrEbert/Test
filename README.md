@@ -7,6 +7,8 @@ This is only Training
 
 I *would* like to emphasize on **that**
 
+![Car image](http://www.littleorange.de/garage/JS-Webshop-Simulation/Images/retro1_small_bridgeracer.jpg)
+
 As my brother always said
 
 >Make sure it's for real
