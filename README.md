@@ -7,7 +7,7 @@ This is only Training
 
 I *would* like to emphasize on **that**
 
-![Car image](http://www.littleorange.de/garage/JS-Webshop-Simulation/Images/retro1_small_bridgeracer.jpg) Format: [This is a car]
+![Car image](http://www.littleorange.de/garage/JS-Webshop-Simulation/Images/retro1_small_bridgeracer.jpg)Format: [This is a car]
 
 As my brother always said
 
