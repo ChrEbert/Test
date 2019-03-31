@@ -30,10 +30,10 @@ As my brother always said
 ## HTML Table Test
 <table>
 	<tr>
-		<td valign='top'>
+		<td valign='top' width='33%'>
 			Top:This whole section should beindented. This whole section should be indentedThis whole section should be indented.This whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should b
 		</td>
-		<td valign="middle">Top:This whole section should beindented. This whole section should be indentedThis whole section should be indented.This whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should b
+		<td valign="middle" width='33%'>Top:This whole section should beindented. This whole section should be indentedThis whole section should be indented.This whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should be indentedThis whole section should b
 		</td>
-		<td valign="bottom">Unten</td></tr></table>
+		<td valign="bottom" width='34%'>Unten</td></tr></table>
 	
